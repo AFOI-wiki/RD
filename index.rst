@@ -86,5 +86,5 @@
    video
    code
 
-.. image:: 2ep2od.jpg
+.. image:: 2ep2od1.jpg
   :alt: AFOI Forever!!!
