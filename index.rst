@@ -1,7 +1,7 @@
 .. title:: Home
 
 .. toctree::
-   :caption: Why cant I use Chinese
+   :caption: APIS
    :hidden:
    :maxdepth: 1
 
@@ -87,4 +87,4 @@
    code
 
 .. image:: 2ep2od.jpg
-  :alt: All the Docs
+  :alt: AFOI Forever!!!
