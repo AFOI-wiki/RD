@@ -1,11 +1,18 @@
 .. title:: Home
 
 .. toctree::
+    :caption: 语言基础
+    :hidden:
+    :maxdepth: 1
+
+    C++ <language/cpp>
+
+.. toctree::
     :caption: 数学
     :hidden:
     :maxdepth: 1
 
-    Number Theory <math/number_theory>
+    数论 <math/number_theory>
 
 
 .. toctree::
@@ -13,64 +20,37 @@
    :hidden:
    :maxdepth: 1
 
-   check50 <https://cs50.readthedocs.io/projects/check50/>
-   cli50
-   compare50 <https://cs50.readthedocs.io/projects/compare50/>
-   render50
-   style50
-   submit50
+   背包 <dp/backpack>
 
 .. toctree::
    :caption: 图论
    :hidden:
    :maxdepth: 1
 
-   check50 <https://cs50.readthedocs.io/projects/check50/>
-   cli50
-   compare50 <https://cs50.readthedocs.io/projects/compare50/>
-   render50
-   style50
-   submit50
+   最小生成树 <graph/MST>
 
 .. toctree::
    :caption: 数据结构
    :hidden:
    :maxdepth: 1
 
-   cs50/check
-   cs50/cli
-   cs50/codespace
-   cs50/ide
-   cs50/sandbox
-   cs50/server
+   分块 <ds/block>
 
 .. toctree::
-   :caption: 杂题选讲
+   :caption: 字符串
    :hidden:
    :maxdepth: 1
    :name: libraries
 
-   check50 <https://cs50.readthedocs.io/projects/check50/>
-   compare50 <https://cs50.readthedocs.io/projects/compare50/>
-   cs50 <libraries/cs50/index>
-   lib50 <https://cs50.readthedocs.io/projects/lib50/>
+   后缀自动机 <string/SAM>
 
 
 .. toctree::
-   :caption: 贡献者
+   :caption: 关于
    :hidden:
    :maxdepth: 1
-
-   forms
-   id
-   ide/index
-   lab
-   render
-   sandbox
-   time
-   vault
-   video
-   code
+   
+   使用说明 <others/instruction>
 
 .. image:: 2ep2od1.jpg
   :alt: AFOI Forever!!!
