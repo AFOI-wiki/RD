@@ -1,12 +1,24 @@
 .. title:: Home
 
 .. toctree::
-   :caption: APIS
+   :caption: Apis
    :hidden:
    :maxdepth: 1
 
    Dining <api/dining>
    Map <api/map>
+
+.. toctree::
+   :caption: TS
+   :hidden:
+   :maxdepth: 1
+
+   check50 <https://cs50.readthedocs.io/projects/check50/>
+   cli50
+   compare50 <https://cs50.readthedocs.io/projects/compare50/>
+   render50
+   style50
+   submit50
 
 .. toctree::
    :caption: Command-Line Tools
