@@ -1,12 +1,12 @@
 .. title:: Home
 
 .. toctree::
-   :caption: Apis
-   :hidden:
-   :maxdepth: 1
+    :caption: Math
+    :hidden:
+    :maxdepth: 1
 
-   Dining <api/dining>
-   Map <api/map>
+    Number Theory <math/number_theory>
+
 
 .. toctree::
    :caption: TS
@@ -55,32 +55,6 @@
    cs50 <libraries/cs50/index>
    lib50 <https://cs50.readthedocs.io/projects/lib50/>
 
-.. toctree::
-   :caption: Style Guides
-   :hidden:
-   :maxdepth: 1
-
-   C <style/c>
-
-.. toctree::
-   :caption: Themes
-   :hidden:
-   :maxdepth: 1
-
-   Jekyll <themes/jekyll>
-
-.. toctree::
-   :caption: Third-Party Software
-   :hidden:
-   :maxdepth: 1
-
-   docker
-   github
-   heroku
-   pip
-   python
-   terminal
-   zoom
 
 .. toctree::
    :caption: Web Apps
