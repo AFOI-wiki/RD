@@ -50,7 +50,7 @@
    :hidden:
    :maxdepth: 1
    
-   使用说明 <others/instruction>
+   说明手册 <others/instruction>
 
 .. image:: 2ep2od1.jpg
   :alt: AFOI Forever!!!
