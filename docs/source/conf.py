@@ -35,3 +35,4 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 extensions = ['myst_parser']
+myst_enable_extensions = ["dollarmath", "amsmath"]
