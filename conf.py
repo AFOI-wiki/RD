@@ -8,7 +8,6 @@ extensions = [
     "sphinx_tabs.tabs",
     "sphinxcontrib.httpdomain",
     "sphinxext.opengraph",
-    "myst_parser"
 ]
 
 myst_enable_extensions = [
@@ -19,7 +18,6 @@ myst_enable_extensions = [
     "fieldlist",
     "html_admonition",
     "html_image",
-    "linkify",
     "replacements",
     "smartquotes",
     "strikethrough",
