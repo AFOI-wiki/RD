@@ -1,7 +1,7 @@
 .. title:: Home
 
 .. toctree::
-   :caption: APIs
+   :caption: 数学
    :hidden:
    :maxdepth: 1
 
