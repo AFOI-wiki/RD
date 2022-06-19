@@ -1,7 +1,7 @@
 .. title:: Home
 
 .. toctree::
-    :caption: Math
+    :caption: 数学
     :hidden:
     :maxdepth: 1
 
@@ -9,7 +9,7 @@
 
 
 .. toctree::
-   :caption: TS
+   :caption: 动态规划
    :hidden:
    :maxdepth: 1
 
@@ -21,7 +21,7 @@
    submit50
 
 .. toctree::
-   :caption: Command-Line Tools
+   :caption: 图论
    :hidden:
    :maxdepth: 1
 
@@ -33,7 +33,7 @@
    submit50
 
 .. toctree::
-   :caption: Docker Images
+   :caption: 数据结构
    :hidden:
    :maxdepth: 1
 
@@ -45,7 +45,7 @@
    cs50/server
 
 .. toctree::
-   :caption: Libraries
+   :caption: 杂题选讲
    :hidden:
    :maxdepth: 1
    :name: libraries
@@ -57,7 +57,7 @@
 
 
 .. toctree::
-   :caption: Web Apps
+   :caption: 贡献者
    :hidden:
    :maxdepth: 1
 
