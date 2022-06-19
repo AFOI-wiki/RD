@@ -1,7 +1,7 @@
 .. title:: Home
 
 .. toctree::
-   :caption: Why can't I use Chinese???
+   :caption: Why cant I use Chinese
    :hidden:
    :maxdepth: 1
 
