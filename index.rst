@@ -1,7 +1,7 @@
 .. title:: Home
 
 .. toctree::
-   :caption: "数学"
+   :caption: Why can't I use Chinese???
    :hidden:
    :maxdepth: 1
 
